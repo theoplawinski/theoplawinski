@@ -1,16 +1,19 @@
-### Hi there 👋
+## PORTFOLIO
 
-<!--
-**theoplawinski/theoplawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[theoplawinski.com](https://www.theoplawinski.com)
 
-Here are some ideas to get you started:
+## MAIL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[hello@theoplawinski.com](mailto:hello@theoplawinski.com)
+
+## SOCIAL
+
+[Twitter](https://www.twitter.com/theoplawinski)
+<br>
+[Linkedin](https://www.linkedin.com/in/theoplawinski)
+<br>
+[Instagram](https://www.instagram.com/lab.theoplawinski)
+<br>
+[Dribbble](https://www.dribbble.com/theoplawinski)
+<br>
+[Behance](https://www.behance.net/theoplawinski)
