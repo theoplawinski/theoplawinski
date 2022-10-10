@@ -12,7 +12,7 @@
 <br>
 [Linkedin](https://www.linkedin.com/in/theoplawinski)
 <br>
-[Instagram](https://www.instagram.com/lab.theoplawinski)
+[Instagram](https://www.instagram.com/theoplawinski)
 <br>
 [Dribbble](https://www.dribbble.com/theoplawinski)
 <br>
