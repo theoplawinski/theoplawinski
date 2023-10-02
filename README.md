@@ -10,8 +10,4 @@
 <br>
 [Linkedin](https://www.linkedin.com/in/theoplawinski)
 <br>
-[Dribbble](https://www.dribbble.com/theoplawinski)
-<br>
-[Behance](https://www.behance.net/theoplawinski)
-<br>
 [Savee](https://savee.it/theoplawinski)
