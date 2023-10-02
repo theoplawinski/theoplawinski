@@ -2,10 +2,6 @@
 
 [theoplawinski.com](https://www.theoplawinski.com)
 
-## MAIL
-
-[hello@theoplawinski.com](mailto:hello@theoplawinski.com)
-
 ## SOCIAL
 
 [Twitter](https://www.twitter.com/theoplawinski)
