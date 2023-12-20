@@ -4,7 +4,7 @@
 
 ## SOCIAL
 
-[Twitter](https://www.twitter.com/theoplawinski)
+[X (Twitter)](https://www.twitter.com/theoplawinski)
 <br>
 [Instagram](https://www.instagram.com/theoplawinski)
 <br>
