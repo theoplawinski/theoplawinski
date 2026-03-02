@@ -1,16 +1,13 @@
-## Hi there 👋
+# About
 
-<!--
-**theoplawinski/theoplawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Developer based in France. Passionate about design, innovation and storytelling. Interested about conception and creating interactive experiences. Adept of Scandinavian culture and lifestyle, I draw daily inspiration from their minimalist philosophy and I have developed a strong taste for well-crafted work, paying particular attention to detail.
 
-Here are some ideas to get you started:
+Portfolio: <br/>
+[theoplawinski.com](https://theoplawinski.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact: <br/>
+[contact@theoplawinski.com](mailto:contact@theoplawinski.com)
+
+Social: <br/>
+[Instagram](https://instagram.com/theoplawinski) <br/>
+[LinkedIn](https://linkedin.com/in/theoplawinski)
