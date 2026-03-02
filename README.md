@@ -5,6 +5,9 @@ Freelance Developer based in France. Passionate about design, innovation and sto
 Portfolio: <br/>
 [theoplawinski.com](https://theoplawinski.com)
 
+Publications: <br />
+[Codrops — Sticky Grid Scroll](https://tympanus.net/codrops/?p=106424)
+
 Contact: <br/>
 [contact@theoplawinski.com](mailto:contact@theoplawinski.com)
 
