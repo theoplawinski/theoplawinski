@@ -5,11 +5,10 @@ Freelance Developer based in France. Passionate about design, innovation and sto
 Portfolio: <br/>
 [theoplawinski.com](https://theoplawinski.com)
 
-Last Project: <br />
+Recent work: <br />
+[Atera](https://atera.spa) <br/>
+[Palmont](https://palmont.com) <br/>
 [Bureau Rouge](https://bureaurouge.com)
-
-Publications: <br />
-[Codrops – Sticky Grid Scroll](https://tympanus.net/codrops/?p=106424)
 
 Contact: <br/>
 [contact@theoplawinski.com](mailto:contact@theoplawinski.com)
